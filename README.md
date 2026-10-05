@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Pochita's Group-ffc0cb?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
+
  <summary><b>FUNCIONES</b></summary>
 
 > Bot en desarrollo si presenta alguna falla reportar al creador para darle una solución óptima.
