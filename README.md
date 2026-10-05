@@ -12,7 +12,26 @@
   <img src="https://img.shields.io/badge/Pochita's Group-ffc0cb?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
+ <summary><b>FUNCIONES</b></summary>
 
+> Bot en desarrollo si presenta alguna falla reportar al creador para darle una solución óptima.
+
+- [x] Configuración de grupo
+- [x] Bienvenida personalizada
+- [x] Juegos, trivia, pelicula, etc
+- [x] Chatbot (gemini, chatgpt, deepseek)
+- [x] Crear sticker de image/video/gif
+- [x] SubBot (Jadibot)
+- [x] Juego RPG
+- [x] Economía 
+- [x] Gacha
+- [x] Personalizar imagen del menú
+- [x] Descarga de música y video De YT
+- [ ] Otros
+
+<summary><b>ꕤ Última Actualización</b></summary>
+
+> **En esta última actualización se agregaron nuevas funciones de economía y gacha, se agregó más administración y personalización en la imagen de bienvenida/despedida, se crearon nuevos grupos oficiales y se actualizó el diseño del menú al estilo de Halloween 🎃**  
 
 
 <table>
