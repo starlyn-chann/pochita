@@ -5,6 +5,7 @@
 
 > [!IMPORTANT]
 > **POCHITA'S BOT** — Este es un proyecto privado en desarrollo por parte de starlyn kizz un mini creador de bots
+
 ![Node](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.0^-blue)
 
