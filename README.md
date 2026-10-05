@@ -3,6 +3,7 @@
 ![Banner](https://raw.githubusercontent.com/starlyn-chann/Mistic-star/main/tourl/1791220369520-0kRcU6icN8fk.jpg)
 
 
+> [!IMPORTANT]
 > **POCHITA'S BOT** — Bot de WhatsApp con descargas, utilidades, búsquedas, stickers, gacha, economía, administración, +18, registros, multi sesiones.
 
 ![Node](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen)
