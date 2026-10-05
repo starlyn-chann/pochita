@@ -13,7 +13,7 @@
       </a>
     </td>
     <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=FF69B4&center=true&vCenter=true&width=500&lines=Enigma+Edder" alt="Typing SVG">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=1E90FF&center=true&vCenter=true&width=500&lines=Enigma+Edder" alt="Typing SVG">
     </td>
   </tr>
 </table>
