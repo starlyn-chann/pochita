@@ -5,6 +5,14 @@
 ![Node](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.0^-blue)
 
+### (っ˕ -｡)ᶻ 𝗓 𐰁 Grupos oficiales 
+¡Únete a nuestros grupos oficiales! (⸝⸝ᵕᴗᵕ⸝⸝)
+
+<a href="https://chat.whatsapp.com/FQxCJ1v7ItA0XxHRUEnxVX">
+  <img src="https://img.shields.io/badge/Pochita's Group-ffc0cb?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+
 <table>
   <tr>
     <td>
