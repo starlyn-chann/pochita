@@ -1,52 +1,60 @@
 # STARLYN KIZZ
 
-> **POCHITA'S BOT** — Bot de whatsApp con descargas, utilidades, búsquedas, stickers, gacha, economía, administración, +18, registros, multi sesiones.
+> **POCHITA'S BOT** — Bot de WhatsApp con descargas, utilidades, búsquedas, stickers, gacha, economía, administración, +18, registros, multi sesiones.
 
 ![Node](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.0^-blue)
 
-### (っ˕ -｡)ᶻ 𝗓 𐰁 Grupos oficiales 
+### (っ˕ -｡)ᶻ 𝗓 𐰁 Grupos oficiales
 ¡Únete a nuestros grupos oficiales! (⸝⸝ᵕᴗᵕ⸝⸝)
 
 <a href="https://chat.whatsapp.com/FQxCJ1v7ItA0XxHRUEnxVX">
   <img src="https://img.shields.io/badge/Pochita's Group-ffc0cb?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
+<details>
+<summary><b>FUNCIONES</b></summary>
 
- <summary><b>FUNCIONES</b></summary>
-
-> Bot en desarrollo si presenta alguna falla reportar al creador para darle una solución óptima.
+> Bot en desarrollo. Si presenta alguna falla, reportar al creador para darle una solución óptima.
 
 - [x] Configuración de grupo
 - [x] Bienvenida personalizada
-- [x] Juegos, trivia, pelicula, etc
-- [x] Chatbot (gemini, chatgpt, deepseek)
-- [x] Crear sticker de image/video/gif
+- [x] Juegos, trivia, película, etc.
+- [x] Chatbot (Gemini, ChatGPT, DeepSeek)
+- [x] Crear sticker de imagen/video/gif
 - [x] SubBot (Jadibot)
 - [x] Juego RPG
-- [x] Economía 
+- [x] Economía
 - [x] Gacha
 - [x] Personalizar imagen del menú
-- [x] Descarga de música y video De YT
+- [x] Descarga de música y video de YT
 - [ ] Otros
+
+</details>
 
 <details>
 <summary><b>✰ Crear un sub-bot</b></summary>
 
-> Método 1 - QR
-```#qr```
+> **Método 1 - QR**
+```
+#qr
+```
 » Más ajustes » Dispositivos vinculados » Vincular un dispositivo » Escanea el código QR
 
-> Método 2 - Code
-```#code```
-» Más ajustes » Dispositivos vinculados » Vincular un dispositivo » Vincular con número el número de teléfono » Pega el código de 8 dígitos
+> **Método 2 - Code**
+```
+#code
+```
+» Más ajustes » Dispositivos vinculados » Vincular un dispositivo » Vincular con número de teléfono » Pega el código de 8 dígitos
+
+</details>
 
 <details>
-
 <summary><b>ꕤ Última Actualización</b></summary>
 
-> **En esta última actualización se agregaron nuevas funciones de economía y gacha, se agregó más administración y personalización en la imagen de bienvenida/despedida, se crearon nuevos grupos oficiales y se actualizó el diseño del menú al estilo de Halloween 🎃**  
-<details>
+> **En esta última actualización se agregaron nuevas funciones de economía y gacha, se agregó más administración y personalización en la imagen de bienvenida/despedida, se crearon nuevos grupos oficiales y se actualizó el diseño del menú al estilo de Halloween 🎃**
+
+</details>
 
 <table>
   <tr>
@@ -60,7 +68,6 @@
     </td>
   </tr>
 </table>
-
 
 ## Developer <img src="https://raw.githubusercontent.com/MBM-D/Github-Emoji/refs/heads/master/Emojis/Smilies/Zzz.png" alt="Heart on Fire" width="23" height="23" />
 <a href="https://whatsapp.com/channel/0029Vb8dp6w8F2pK6pp0VQ18"><img src="https://raw.githubusercontent.com/starlyn-chann/Mistic-star/main/tourl/1791218622532-6joVQL4vHFR9.jpg" height="125px"></a>
