@@ -1,5 +1,8 @@
 # STARLYN KIZZ
 
+![Banner](https://raw.githubusercontent.com/starlyn-chann/Mistic-star/main/tourl/1791220369520-0kRcU6icN8fk.jpg)
+
+
 > **POCHITA'S BOT** — Bot de WhatsApp con descargas, utilidades, búsquedas, stickers, gacha, economía, administración, +18, registros, multi sesiones.
 
 ![Node](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen)
@@ -11,6 +14,9 @@
 <a href="https://chat.whatsapp.com/FQxCJ1v7ItA0XxHRUEnxVX">
   <img src="https://img.shields.io/badge/Pochita's Group-ffc0cb?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
+
+<br>
+<br>
 
 <details>
 <summary><b>FUNCIONES</b></summary>
