@@ -42,6 +42,7 @@
 » Más ajustes » Dispositivos vinculados » Vincular un dispositivo » Vincular con número el número de teléfono » Pega el código de 8 dígitos
 
 <details>
+
 <summary><b>ꕤ Última Actualización</b></summary>
 
 > **En esta última actualización se agregaron nuevas funciones de economía y gacha, se agregó más administración y personalización en la imagen de bienvenida/despedida, se crearon nuevos grupos oficiales y se actualizó el diseño del menú al estilo de Halloween 🎃**  
